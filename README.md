@@ -1,13 +1,16 @@
 # Aviation-analytics
 Sky Analytics: Navigating the Complexities of Airline and Airport Operations
 
+![image](https://github.com/user-attachments/assets/e5c6ff76-d6fd-4893-a57f-8b4a4844cc75)
+
+
 ## Overview
 SkyNet Analysis Inc. is a leading consultancy firm specializing in aviation analytics. With the aviation industry's rapid expansion and the increasing complexity of global air travel, SkyNet plays a critical role in providing data-driven insights to airlines, airports, and regulatory bodies. The company has access to extensive datasets that cover a wide range of information, including flight schedules, delays, airline operations, and airport traffic details. These datasets offer a unique opportunity to explore and understand the multifaceted nature of the aviation industry, from operational efficiency and customer satisfaction to logistical challenges and environmental impact.
 
 ## Objective
 The primary objective of this case study, titled "Sky Analytics: Navigating the Complexities of Airline and Airport Operations," is to deeply analyze and interpret the extensive datasets encompassing flights, airlines, and airports - namely "flights.csv", "airlines.csv", and "airports.csv". The analysis aims to uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics. By exploring these datasets, the study seeks to identify key factors influencing operational efficiency, understand the intricacies of flight scheduling and delays, and evaluate the performance metrics of airlines and airports. The ultimate goal is to provide strategic recommendations to enhance operational effectiveness, improve customer experiences in air travel, and contribute to the overall advancement of the aviation industry's standards and practices.
 
-# Datasets
+## Datasets
 It consists of 3 dataset flights, airports,airlines.
 
 Flights dataset contains detailed flight information, including timings, delays, and other flight-specific data.
@@ -45,5 +48,20 @@ Airports dataset contains information about various airports.
 - **STATE**: State where the airport is located.
 - **COUNTRY**: Country where the airport is located.
 - **LATITUDE, LONGITUDE**: Geographic coordinates of the airport.
+
+## Excel Spreadsheet links
+https://docs.google.com/spreadsheets/d/1FD-BWKPPHFOAeJij78M1mweRTQGckYHt/edit?usp=sharing&ouid=102989654751090390292&rtpof=true&sd=true
+
+https://docs.google.com/spreadsheets/d/1FD-BWKPPHFOAeJij78M1mweRTQGckYHt/edit?usp=drive_link&ouid=102989654751090390292&rtpof=true&sd=true
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/b1328733-4d90-4e6b-a0d9-1fe3b6664d4a)
+
+## Key Insights
+* Maximum delayed fights are from airlines F9,MQ with average delay per flight is 23 and 21 minutes respectively.
+* Maximum flights are cancelled from MQ airlines.
+* ATL is the busiest airport with incoming and outgoing flights are more than 4000.
+* Maximum Number of flights delayed due to late aircraft and airline.
+  
 
 
