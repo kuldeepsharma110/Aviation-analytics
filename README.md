@@ -58,7 +58,7 @@ https://docs.google.com/spreadsheets/d/1FD-BWKPPHFOAeJij78M1mweRTQGckYHt/edit?us
 ![image](https://github.com/user-attachments/assets/b1328733-4d90-4e6b-a0d9-1fe3b6664d4a)
 
 ## Key Insights
-* Maximum delayed fights are from airlines F9,MQ with average delay per flight is 23 and 21 minutes respectively.
+* Maximum  fights delayed from airlines F9,MQ with average delay per flight is 23 and 21 minutes respectively.
 * Maximum flights are cancelled from MQ airlines.
 * ATL is the busiest airport with incoming and outgoing flights are more than 4000.
 * Maximum Number of flights delayed due to late aircraft and airline.
